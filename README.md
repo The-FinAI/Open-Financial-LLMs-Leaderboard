@@ -78,3 +78,15 @@ Copyright 2024 Fintech Open Source Foundation
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
+
+
+### Current submissions are manully evaluated. Will open a automatic evaluation pipeline in the future update
+tags:
+  - leaderboard
+  - modality:text
+  - submission:manual
+  - test:public
+  - judge:humans
+  - eval:generation
+  - language:English
+
