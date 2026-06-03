@@ -30,11 +30,10 @@ function LeaderboardPage() {
         sx={{ 
           display: "flex", 
           justifyContent: "center", 
-          pt: 6, 
-          mb: -4, 
-          pb: 0,
+          pt: 4,
+          pb: 2,
           width: "100%",
-          overflow: "visible" 
+          overflow: "hidden",
         }}
       >
         <Logo height="80px" />
